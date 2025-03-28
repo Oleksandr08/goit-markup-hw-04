@@ -193,6 +193,17 @@ body {
     margin: 0 auto;
     margin-bottom: 8px;
 }
+.icon-sec-two {
+    border: 1px solid #8e8f99;
+    border-radius: 4px;
+    width: 264px;
+    height: 112px;
+    background-color: #f4f4fd;
+    background-size: contain;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
 
 .advantages-item {
     width: calc((100% - 72px) / 4);
