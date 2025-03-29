@@ -195,15 +195,13 @@ body {
 }
 .icon-sec-two {
     display: flex;
+    justify-content: center;
+    align-items: center;
     border: 1px solid #8e8f99;
     border-radius: 4px;
     width: 264px;
     height: 112px;
     background-color: #f4f4fd;
-    background-size: contain;
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
     margin-bottom: 8px;
 }
 
