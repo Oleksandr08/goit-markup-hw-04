@@ -281,8 +281,8 @@ body {
     gap: 24px;
     align-items: center;
 }
-.icon-list:hover
-.icon-list:focus{
+.icon-link:hover
+.icon-link:focus{
     background-color: #404bbf;
 }
 .images-icon {
