@@ -279,7 +279,7 @@ body {
     gap: 24px;
     align-items: center;
 }
-.icon-link:hover
+.icon-link:hover,
 .icon-link:focus{
     background-color: #404bbf;
 }
