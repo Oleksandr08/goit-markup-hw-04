@@ -348,10 +348,7 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
 }
-.portf-item {
-    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08) 0px 1 px 1px;
-}
-.portf-item:hover {
+.port-item:hover {
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16),
     0px 2px 1px rgba(46, 47, 66, 0.08);
