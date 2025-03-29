@@ -399,6 +399,9 @@ body {
 .footer-web {
     color: #f4f4fd;
 }
+.left-text {
+    margin-right: 120px;
+}
 .footer-text {
     display: block;
     max-width: 264px;
